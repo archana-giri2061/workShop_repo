@@ -1,11 +1,15 @@
-*{
+head{
     margin: 0;
     padding: 0;
 }
-.wrapper{
+body{
     margin: 0;
     width: 10000px;
 }
 table, th, td{
      border: 1px;
+}
+footer{
+    padding-left: 10px;
+    
 }
