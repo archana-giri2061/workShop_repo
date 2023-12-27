@@ -6,3 +6,6 @@
     margin: 0;
     width: 10000px;
 }
+table, th, td{
+     border: 1px;
+}
